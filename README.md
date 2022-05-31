@@ -10,7 +10,7 @@
 
 ## ✍️ Task
 
-- **FORK** this repository (in Bitbucket.org) or import this repository (if using another Source Control provider, e.g. GitHub) and create a branch for your work.
+- **FORK** this repository (in github.com) or import this repository (if using another Source Control provider, e.g. BitBucket) and create a branch for your work.
 - Create an account with Calendly and provide some availabilities.
 - Setup an invite link for a simple 1-to-1 meeting.
 - Write several tests to ensure that a invitee can successfully book a desired slot where the host is available.
