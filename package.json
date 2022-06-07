@@ -1,0 +1,22 @@
+{
+  "name": "qa-engineer",
+  "version": "1.0.0",
+  "description": "Guider QA Engineer",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Agatha-Stedman/qa-engineer.git"
+  },
+  "author": "Agatha Stedman",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Agatha-Stedman/qa-engineer/issues"
+  },
+  "homepage": "https://github.com/Agatha-Stedman/qa-engineer#readme",
+  "devDependencies": {
+    "cypress": "^9.7.0"
+  }
+}
